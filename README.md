@@ -15,6 +15,15 @@ OmniTools is a free, fast, browser-based utility suite offering **368+ client-si
 
 Explore all tools: [https://omnitools.net/tools](https://omnitools.net/tools)
 
+## 📱 Official Android App & Web Platform
+
+Use **OmniTools.net** directly in your browser or install our official Android app from Google Play:
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download_OmniTools_App-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=net.omnitools.app)
+[![Visit Website](https://img.shields.io/badge/Website-OmniTools.net-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omnitools.net)
+
+- **Web Suite (360+ Free Tools):** https://omnitools.net
+- **Official Android App (`net.omnitools.app`):** https://play.google.com/store/apps/details?id=net.omnitools.app
 ---
 
 ## Official Extensions & Links
