@@ -1,4 +1,4 @@
-# OmniTools.net — 368+ Free Online Tools, Calculators & Converters
+# OmniTools.net — 300+ Free Online Tools, Calculators & Converters
 
 **Official Website:** [https://omnitools.net/](https://omnitools.net/)
 
